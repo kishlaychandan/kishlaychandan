@@ -41,7 +41,7 @@ I'm **Kishlay Chandan**, a passionate developer from India.
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishlaychandan01@gmail.com)
 
 ---
-
+<!--
 [![Kishlay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishlaychandan&theme=react-dark)](https://github.com/kishlaychandan)
-
+-->
 </div>
