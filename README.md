@@ -3,13 +3,13 @@
 # Hi there 👋
 I'm **Kishlay Chandan**, a passionate **Full-Stack Developer & DevOps Engineer** from India.
 
-<img alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+<img alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ---
 
 ### 📊 GitHub Profile Summary
 
-![Total Repositories](https://img.shields.io/badge/Total%20Repositories-117-blue?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/kishlaychandan&query=$.public_repos&label=Total%20Repositories&style=for-the-badge&logo=github&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=kishlaychandan&style=for-the-badge&color=blueviolet)
 
 ---
