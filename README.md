@@ -1,47 +1,118 @@
 <div align="center">
 
-# Hi there 👋  
-I'm **Kishlay Chandan**, a passionate developer from India.
+# Hi there 👋
+I'm **Kishlay Chandan**, a passionate **Full-Stack Developer & DevOps Engineer** from India.
 
 <img alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kishlaychandan&show_icons=true&theme=radical" alt="Kishlay's GitHub Stats" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishlaychandan&layout=compact&theme=radical" alt="Top Languages" height="180" />
-</div>
-
----
-
 ### 📊 GitHub Profile Summary
-![Total Repositories](https://img.shields.io/badge/Total%20Repositories-117-blue?style=for-the-badge&logo=github) <!-- Replace '12' with your actual total number of repositories -->
+
+![Total Repositories](https://img.shields.io/badge/Total%20Repositories-117-blue?style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=kishlaychandan&style=for-the-badge&color=blueviolet)
 
 ---
 
 ### 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**🐳 Container & Orchestration**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/-Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![AWS EKS](https://img.shields.io/badge/-AWS%20EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure AKS](https://img.shields.io/badge/-Azure%20AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+**⚙️ CI/CD & GitOps**
+
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Gitea](https://img.shields.io/badge/-Gitea%20Actions-609926?style=for-the-badge&logo=gitea&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD%20GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+**☁️ Cloud Platforms**
+
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+**🏗️ Infrastructure as Code**
+
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/-YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
+**🔒 DevSecOps & Security**
+
+![Trivy](https://img.shields.io/badge/-Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Infisical](https://img.shields.io/badge/-Infisical-EF1C79?style=for-the-badge&logo=infisical&logoColor=white)
+
+**📊 Observability & Monitoring**
+
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/-Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Grafana Alerts](https://img.shields.io/badge/-Grafana%20Webhook%20Alerts-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Uptime Kuma](https://img.shields.io/badge/-Uptime%20Kuma-5CDD8B?style=for-the-badge&logo=uptimekuma&logoColor=black)
+![Custom Dashboard](https://img.shields.io/badge/-Custom%20Monitoring%20Dashboard-1F4E79?style=for-the-badge&logo=react&logoColor=white)
+
+**📡 Data & Streaming**
+
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Debezium](https://img.shields.io/badge/-Debezium%20CDC-FF0000?style=for-the-badge&logo=debezium&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+**🗄️ Databases & Storage**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MinIO](https://img.shields.io/badge/-MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**💻 Development**
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+**🎨 Design & Other**
+
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📈 GitHub Activity
+
+[![Kishlay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishlaychandan&theme=react-dark)](https://github.com/kishlaychandan)
 
 ---
 
 ### 📫 Connect with me:
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kishlay-chandan-a9055a214/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishlaychandan01@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishlaychandan)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1F4E79?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kishlaychandan.kclab.tech/)
 
 ---
-<!--
-[![Kishlay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishlaychandan&theme=react-dark)](https://github.com/kishlaychandan)
--->
+
+*⚡ "Code it. Containerize it. Ship it." ⚡*
+
 </div>
