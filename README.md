@@ -3,16 +3,16 @@
 # Hi there 👋
 I'm **Kishlay Chandan**, a passionate **Full-Stack Developer & DevOps Engineer** from India.
 
-<img alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
----
+<hr style="border: 0; border-top: 0.5px solid #444;" />
 
 ### 📊 GitHub Profile Summary
 
 ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/kishlaychandan&query=$.public_repos&label=Total%20Repositories&style=for-the-badge&logo=github&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=kishlaychandan&style=for-the-badge&color=blueviolet)
 
----
+<hr style="border: 0; border-top: 0.5px solid #444;" />
 
 ### 🛠️ Tech Stack
 
@@ -96,13 +96,13 @@ I'm **Kishlay Chandan**, a passionate **Full-Stack Developer & DevOps Engineer**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
+<hr style="border: 0; border-top: 0.5px solid #444;" />
 
 ### 📈 GitHub Activity
 
-[![Kishlay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishlaychandan&theme=react-dark)](https://github.com/kishlaychandan)
+[![Kishlay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishlaychandan&theme=react-dark&height=250)](https://github.com/kishlaychandan)
 
----
+<hr style="border: 0; border-top: 0.5px solid #444;" />
 
 ### 📫 Connect with me:
 
@@ -111,7 +111,7 @@ I'm **Kishlay Chandan**, a passionate **Full-Stack Developer & DevOps Engineer**
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishlaychandan)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-1F4E79?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kishlaychandan.kclab.tech/)
 
----
+<hr style="border: 0; border-top: 0.5px solid #444;" />
 
 *⚡ "Code it. Containerize it. Ship it." ⚡*
 
